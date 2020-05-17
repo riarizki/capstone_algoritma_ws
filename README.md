@@ -20,10 +20,15 @@ Webapp ini menampilkan interactive visualization dari plot pergerakan kurs (Kurs
 
 ## Conclusion
 
-- Setelah melakukan data scrapping dan data wrangling dari `monexnews.com/kurs-valuta-asing.htm?kurs=JPY` dengan mencari data kurs jual dan kurs beli JPY to IDR pada tahun 2019, maka didapatkan 246 data berdasarkan hari kerja yang ada di tahun 2019.
-- Dari hasil scrapping data Kurs Yen to IDR Tahun 2019 diketahui bahwa Kurs menempati posisi terendah pada Tanggal 18 April 2019 dengan perolehan nilai yaitu:
-1. Kurs Jual sebesar 125,84
-2. Kurs Beli 124,55 
-dan menempati posisi tertinggi pada Tanggal 26 Agustus 2019 dengan perolehan nilai, yaitu:
-1. Kurs Jual sebesar 136,20 
-2. Kurs Beli 134,81 
+Dari hasil scrapping data Kurs Yen to IDR Tahun 2019 diketahui bahwa Kurs menempati posisi terendah pada awal Bulan April 2019 yaitu dengan rata-rata Kurs Jual adalah 127.37 dan Kurs Beli adalah 126.07.
+
+Sedangkan kurs menempati posisi tertinggi pada Bulan Agustus 2019 dengan perolehan nilai yaitu rata-rata Kurs Jual adalah 134.34 dan Kurs Beli adalah 133.37.
+
+Terdapat beberapa hal yang dapat mempengaruhi kondisi tersebut yaitu:
+1. penurunan kurs JPY pada bulan April 2019 salah satunya karena dipicu oleh tumbuhnya minat risiko di kalangan pelaku pasar. Kenaikan Risk Appetite ini disebabkan oleh munculnya tanda-tanda perbaikan ekonomi China dan pendapatan perusahaan AS yang melonjak
+
+https://www.seputarforex.com/berita/minat-risiko-naik-yen-turun-ke-level-terendah-2019-288132-11
+
+2. sedangkan peningkatan kurs JPY pada bulan Agustus 2019 dikarenakan dengan meningkatnya kenaikan harga emas di pasar global dan menguatnya Pasar yang telah diawali dengan penguatan kurs mulai pertengahan April 2019 sebelum masa Golden Week
+
+https://investasi.kontan.co.id/news/yen-tengah-perkasa-pasangan-kurs-usdjpy-direkomendasikan-jual 
